@@ -1,0 +1,10 @@
+[
+    {
+        "desc": "test_desc",
+        "name": "test_name",
+        "category": "Development",
+        "logo": "https://www.nodereal.io/static/nodereal/images/home/logo-nodereal.png",
+        "groupTitle":"Solidity Code Quality",
+        "website": "https://www.fe.nodereal.cc/bnb-dev-tools"      
+    }
+]
