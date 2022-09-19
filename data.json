@@ -6,5 +6,13 @@
         "logo": "https://www.nodereal.io/static/nodereal/images/home/logo-nodereal.png",
         "groupTitle":"Solidity Code Quality",
         "website": "https://www.fe.nodereal.cc/bnb-dev-tools"      
+    },
+        {
+        "desc": "test_desc_2",
+        "name": "test_name_2",
+        "category": "Decentralized Storage",
+        "logo": "https://www.nodereal.io/static/nodereal/images/home/logo-nodereal.png",
+        "groupTitle":"",
+        "website": "https://www.fe.nodereal.cc/bnb-dev-tools"      
     }
 ]
