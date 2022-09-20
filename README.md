@@ -3,7 +3,7 @@
 
 ### Contributing
 
-To suggest any changes to the entries or the categories, modify the [`data.json`](https://github.com/node-real/bnb-chain-dev-tools-config/blob/main/data.json) file and open a pull request.
+To suggest any changes to the entries or the categories, modify the [`data.json`](https://github.com/node-real/bnb-chain-dev-tools-config/blob/main/dev-tool-data/data.json) file and open a pull request.
 
 To suggest new entries, follow the below guidelines:
 

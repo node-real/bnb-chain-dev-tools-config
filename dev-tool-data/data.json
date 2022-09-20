@@ -1,0 +1,861 @@
+[
+  {
+    "category": "Analytics & Dashboards",
+    "name": "Dune",
+    "desc": "Blockchain ecosystem analytics by and for the community",
+    "website": "http://dune.com/",
+    "groupTitle": ""
+  },
+  {
+    "category": "Analytics & Dashboards",
+    "groupTitle": "",
+    "name": "YieldWatch",
+    "desc": "Track your Yield Farming and Liquidity Pool performance on BNB Chain",
+    "website": "https://www.yieldwatch.net/"
+  },
+  {
+    "category": "Analytics & Dashboards",
+    "groupTitle": "",
+    "name": "Defistation",
+    "desc": "Defi dashboard",
+    "website": "https://www.defistation.io/"
+  },
+  {
+    "category": "Analytics & Dashboards",
+    "groupTitle": "",
+    "name": "Bitquery",
+    "desc": "GraphQL explorer of Binance Chain data",
+    "website": "https://bitquery.io/"
+  },
+  {
+    "category": "Analytics & Dashboards",
+    "groupTitle": "",
+    "name": "DeBank",
+    "desc": "A multi-chain portfolio tracker that supports the largest number of DeFi protocols",
+    "website": "http://debank.com/"
+  },
+  {
+    "category": "Analytics & Dashboards",
+    "groupTitle": "",
+    "name": "Bloxy",
+    "desc": "One stand data source for understanding Binance DEX",
+    "website": "http://bloxy.info/"
+  },
+  {
+    "category": "Analytics & Dashboards",
+    "groupTitle": "",
+    "name": "Footprint Analytics",
+    "desc": "Blockchain analytics",
+    "website": "https://www.footprint.network/about"
+  },
+  {
+    "category": "Analytics & Dashboards",
+    "groupTitle": "",
+    "name": "Web3Go",
+    "desc": "Web3Go is an all-in-one open data analytics and service platform where everyone can grasp the value behind blockchain data",
+    "website": "https://web3go.xyz/"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Block Explorers",
+    "name": "BscScan",
+    "desc": "Blockchain explorer of BNB Chain",
+    "website": "https://bscscan.com/"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Block Explorers",
+    "name": "BSCTrace",
+    "desc": "Blockchain explorer of BNB Chain from NodeReal",
+    "website": "https://bsctrace.com/"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Block Explorers",
+    "name": "MINTSCAN",
+    "desc": "A fast explorer for the Beacon Chain",
+    "website": "https://binance.mintscan.io/"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "NodeReal",
+    "desc": "The ultimate and fastest Web3 infrastructure solution on BNB Chain, ETH, Polygon and Aptos",
+    "website": "https://nodereal.io/"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "Ankr",
+    "desc": "Ankr provides builders with streamlined access to a global network of nodes running on 18 different blockchains",
+    "website": "https://ankr.com/"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "Chainstack",
+    "desc": "From startups to large enterprises, thousands of businesses of all sizes use Chainstack’s software and APIs to build, run, and scale blockchain applications",
+    "website": "https://chainstack.com/"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "NowNodes",
+    "desc": "Get your crypto API for instant access to 40+ blockchain networks including BTC, ETH, and BSC which is over 1000 coins and tokens",
+    "website": "https://nownodes.io/"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "QuickNode",
+    "desc": "They make it simple to build blockchain applications and scale up as you grow. From elastic APIs to powerful tools and analytics, all at your command through a simple control panel",
+    "website": "http://quicknode.io/"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "BlockVision",
+    "desc": "BlockVision is a one-stop development platform and on-chain data retrieval portal for developers that boasts impressively low-latencies and high availability",
+    "website": "https://blockvision.org/"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "Covalent",
+    "desc": "Covalent provides a unified API bringing visibility to billions of Web3 data points",
+    "website": "https://www.covalenthq.com/"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "InfStones",
+    "desc": "InfStones' easy-to-use blockchain infrastructure.",
+    "website": "https://infstones.com/"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "Moralis",
+    "desc": "Moralis provides APIs, SDKs and Data for building high performance dapps. Integrate Web3 into any tech stack",
+    "website": "http://moralis.io"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "Gomu",
+    "desc": "NFT API",
+    "website": "https://www.gomu.co/"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "Bounce Finance",
+    "desc": "NFT API and Web3 marketplace",
+    "website": "https://bounce.finance/"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "NFT Tools",
+    "name": "NFTScan",
+    "desc": "The NFTScan API helps developers build new experiences retrieving NFTs and data analysis. We provide a set of endpoints that enable you to fetch ERC721 and ERC1155 NFT assets as well as transactions, collections, marketplace statistics and more",
+    "website": "https://nftscan.com/"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "NFT Tools",
+    "name": "BlockVision",
+    "desc": "BlockVision synchronizes and integrates core NFT marketplace data such as OpenSea and LooksRare, just to let you save everything while developing NFT applications",
+    "website": "https://blockvision.org/"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "NFT Tools",
+    "name": "Venly",
+    "desc": "Unity plugin, NFT to email, Shopify-app, NFT API, NFT analytics, NFT minter",
+    "website": "https://www.venly.io/"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "NFT Tools",
+    "name": "NFTrade",
+    "desc": "Aggreagator & shared orderbook SDK, ability to buy NFTs with other chain's native token",
+    "website": "https://nftrade.com/"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Data Indexing",
+    "name": "PARSIQ",
+    "desc": "Raw onchain data indexing, monitoring and intelligence platform",
+    "website": "https://www.parsiq.net/"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Data Indexing",
+    "name": "Nakji",
+    "desc": "Data indexing protocol for BNB Chain, mainly for DeFi, NFTs soon",
+    "website": "https://nakji.network/"
+  },
+  {
+    "category": "Cross-chain Bridges",
+    "groupTitle": "",
+    "name": "Celer cBridge",
+    "desc": "cBridge introduces the best-in-class cross-chain token bridging experience with deep liquidity for users, highly efficient and easy-to-use liquidity management for both cBridge node operators and Liquidity Providers who do not want to operate cBridge nodes, and new exciting developer-oriented features such as general message bridging for cases like cross-chain DEX and NFTs",
+    "website": "https://cbridge.celer.network/"
+  },
+  {
+    "category": "Cross-chain Bridges",
+    "groupTitle": "",
+    "name": "Multichain",
+    "desc": "Multichain is the ultimate Router for Web3. It is an infrastructure developed for arbitrary cross-chain interactions",
+    "website": "https://multichain.org/"
+  },
+  {
+    "category": "Cross-chain Bridges",
+    "groupTitle": "",
+    "name": "LayerZero",
+    "desc": "LayerZero is an omnichain interoperability protocol designed for lightweight message passing across chains",
+    "website": "https://layerzero.network/"
+  },
+  {
+    "category": "Cross-chain Bridges",
+    "groupTitle": "",
+    "name": "ChainHop",
+    "desc": "ChainHop is a composable multi-chain liquidity network that facilitates multi-chain-native dApps, such as cross-chain DEX, cross-chain lending, etc. Built with the advanced multi-chain interoperability protocols, ChainHop unifies segmented liquidity across different chain and provides users & developer with a truly streamlined multi-chain experience",
+    "website": "https://chainhop.exchange/"
+  },
+  {
+    "category": "Cross-chain Bridges",
+    "groupTitle": "",
+    "name": "Ren Project",
+    "desc": "Ren is an open and community-driven protocol that enables the movement of value between blockchains",
+    "website": "https://github.com/renproject/ren/wiki/"
+  },
+  {
+    "category": "Cross-chain Bridges",
+    "groupTitle": "",
+    "name": "HashFlow",
+    "desc": "Bridgeless cross-chain swaps",
+    "website": "https://www.hashflow.com/"
+  },
+  {
+    "category": "Browser",
+    "groupTitle": "",
+    "name": "Opera",
+    "desc": "Web3 dedicated browser for desktop and mobile",
+    "website": "https://www.opera.com/crypto/"
+  },
+  {
+    "category": "DAO Tools",
+    "groupTitle": "",
+    "name": "Tally",
+    "desc": "Tally is a DAO operations platform",
+    "website": "https://www.tally.xyz/"
+  },
+  {
+    "category": "DAO Tools",
+    "groupTitle": "",
+    "name": "Collab.Land",
+    "desc": "Collab.Land leverages the power of identity through crypto currency to create a social space unique to a specific network of humans. Once you add the bot to your Telegram group or Discord guild, they will manage your people for you. Depending on their token holdings they will be allowed to join the community. If they sell, the bot boots them",
+    "website": "https://collab.land/"
+  },
+  {
+    "category": "DAO Tools",
+    "groupTitle": "",
+    "name": "Coinshift",
+    "desc": "Coinshift simplifies treasury management by providing efficient multisig tooling to save time & money for crypto organisations",
+    "website": "https://coinshift.xyz/"
+  },
+  {
+    "category": "DAO Tools",
+    "groupTitle": "",
+    "name": "Snapshot",
+    "desc": "Snapshot is a decentralized voting system",
+    "website": "https://snapshot.org/#/"
+  },
+  {
+    "category": "DAO Tools",
+    "groupTitle": "",
+    "name": "HQ.xyz",
+    "desc": "Wallet aggregation and Zapier-like automation tools for DAOs",
+    "website": "https://www.hq.xyz/"
+  },
+  {
+    "category": "Dapp Store",
+    "groupTitle": "",
+    "name": "Dapp Bay",
+    "desc": "",
+    "website": "https://dappbay.bnbchain.org/"
+  },
+  {
+    "category": "Dapp Store",
+    "groupTitle": "",
+    "name": "Magic Square",
+    "desc": "",
+    "website": "https://magicsquare.io/"
+  },
+  {
+    "category": "Data Oracles",
+    "groupTitle": "",
+    "name": "Band Protocol",
+    "desc": "Band Protocol is a cross-chain data oracle platform that aggregates and connects real-world data and APIs to smart contracts",
+    "website": "https://bandprotocol.com/"
+  },
+  {
+    "category": "Data Oracles",
+    "groupTitle": "",
+    "name": "Chainlink",
+    "desc": "Securely connect smart contracts with off-chain data and services Chainlink decentralized oracle networks provide tamper-proof inputs, outputs, and computations to support advanced smart contracts on any blockchain",
+    "website": "https://chain.link/"
+  },
+  {
+    "category": "Data Oracles",
+    "groupTitle": "",
+    "name": "Pyth",
+    "desc": "Pyth delivers real-time on-chain market data",
+    "website": "https://pyth.network/"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Solidity Code Quality",
+    "name": "Solhint",
+    "desc": "This is an open source project for linting Solidity code. This project provides both Security and Style Guide validations",
+    "website": "https://github.com/protofire/solhint"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Solidity Code Quality",
+    "name": "Ethlint",
+    "desc": "Ethlint (Formerly Solium) analyzes your Solidity code for style & security issues and fixes them",
+    "website": "https://github.com/duaraghav8/Ethlint"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Solidity Code Quality",
+    "name": "Manticore",
+    "desc": "Manticore is a symbolic execution tool for analysis of smart contracts and binaries",
+    "website": "https://github.com/trailofbits/manticore"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Solidity Code Quality",
+    "name": "Slither",
+    "desc": "Slither is a Solidity static analysis framework",
+    "website": "https://github.com/crytic/slither"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Solidity Code Quality",
+    "name": "Echidna",
+    "desc": "Echidna is a program designed for fuzzing/property-based testing of Ethereum smart contracts",
+    "website": "https://github.com/crytic/echidna"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Front-End Programming",
+    "name": "Web3.js",
+    "desc": "Access full node capabilities without running your own",
+    "website": "https://github.com/ethereum/web3.js/"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Front-End Programming",
+    "name": "Ethers.js",
+    "desc": "Designed to make it easier to write client-side JavaScript based wallets, keeping the private key on the owner’s machine at all times",
+    "website": "https://docs.ethers.io/ethers.js/v3.0/html/"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Back-End Programming",
+    "name": "Web3.py",
+    "desc": "A python interface for interacting with the Ethereum blockchain and ecosystem",
+    "website": "https://github.com/ethereum/web3.py"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Back-End Programming",
+    "name": "Web3.php",
+    "desc": "A php interface for interacting with the Ethereum blockchain and ecosystem. Native ABI parsing and smart contract interactions",
+    "website": "https://github.com/web3p/web3.php"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Back-End Programming",
+    "name": "Java Web3",
+    "desc": "Lightweight Java and Android library for integration with Ethereum clients",
+    "website": "https://github.com/web3j/web3j"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Back-End Programming",
+    "name": "Net Web3",
+    "desc": "Bringing the love of .NET to Ethereum An open source .NET integration library for blockchain",
+    "website": "https://nethereum.com/"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Back-End Programming",
+    "name": "Ruby Web3",
+    "desc": "Ethereum library for the Ruby language",
+    "website": "https://github.com/EthWorks/ethereum.rb"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "IDE",
+    "name": "BSC Studio",
+    "desc": "Blockchain Labs building graphic IDE to expedite dApp development",
+    "website": "https://github.com/ObsidianLabs/BNB-Studio/blob/master/README.md"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "IDE",
+    "name": "Remix",
+    "desc": "Remix IDE allows developing, deploying and administering smart contracts for Ethereum like blockchains",
+    "website": "https://remix.ethereum.org/"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "IDE",
+    "name": "Intellij Solidity Plugin",
+    "desc": "Every aspect of IntelliJ IDEA has been designed to maximize developer productivity. Together, intelligent coding assistance and ergonomic design make development not only productive but also enjoyable",
+    "website": "https://jetbrains.com/idea/"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "IDE",
+    "name": "ChainIDE",
+    "desc": "A Cloud-Based Multi-Chain IDE",
+    "website": "https://chainide.com/"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Development Framework",
+    "name": "Truffle",
+    "desc": "A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine",
+    "website": "https://trufflesuite.com/"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Development Framework",
+    "name": "Embark",
+    "desc": "Embark is a platform that enables easy development and deployment of decentralized applications",
+    "website": "https://github.com/embark-framework/embark"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Development Framework",
+    "name": "Waffle",
+    "desc": "The most advanced framework for testing smart contracts",
+    "website": "https://getwaffle.io/"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Development Framework",
+    "name": "OpenZeppelin",
+    "desc": "OpenZeppelin provides security products to build, automate, and operate decentralized applications. We also protect leading organizations by performing security audits on their systems and products",
+    "website": "https://www.openzeppelin.com/defender"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Development Framework",
+    "name": "HardHat",
+    "desc": "Hardhat is a development environment for Ethereum software",
+    "website": "https://hardhat.org/"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Wallet SDK",
+    "name": "Venly",
+    "desc": "Wallet creation by social accounts",
+    "website": "https://www.venly.io/product-wallet"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Wallet SDK",
+    "name": "Sequence.app",
+    "desc": "Wallet creation by social accounts",
+    "website": "https://sequence.app/"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Wallet SDK",
+    "name": "Web3Auth",
+    "desc": "Wallet creation by social accounts",
+    "website": "https://web3auth.io/"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Wallet SDK",
+    "name": "BSC Connector",
+    "desc": "This example demonstrates how to support the Binance Chain Wallet through a custom connector",
+    "website": "https://github.com/aragon/use-wallet/tree/master/examples"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "MPC Wallets/Multisig",
+    "name": "Qredo",
+    "desc": "MPC Wallets increase overall security for key management and such solutions are critical for protocol/project treasury management",
+    "website": "https://www.qredo.com/"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "MPC Wallets/Multisig",
+    "name": "Gnosis",
+    "desc": "The purpose of multisig wallets is to increase security by requiring multiple parties to agree on transactions before execution",
+    "website": "https://gnosis-safe.io/"
+  },
+  {
+    "category": "Gaming Tools",
+    "groupTitle": "",
+    "name": "GameSpace",
+    "desc": "GameFi as a service",
+    "website": "https://game.space/"
+  },
+  {
+    "category": "Gasless Solutions",
+    "groupTitle": "",
+    "name": "Biconomy",
+    "desc": "Gasless solution",
+    "website": "http://biconomy.io/"
+  },
+  {
+    "category": "NFT Marketplace",
+    "groupTitle": "",
+    "name": "Rareboard",
+    "desc": "NFT Marketplace Aggregator Mint & Trade NFTs from multiple marketplaces, at no extra cost",
+    "website": "http://rareboard.com"
+  },
+  {
+    "category": "NFT Marketplace",
+    "groupTitle": "",
+    "name": "Venly",
+    "desc": "Wallet with marketplace and APIs",
+    "website": "https://www.venly.io/"
+  },
+  {
+    "category": "NFT Marketplace",
+    "groupTitle": "",
+    "name": "NFTrade",
+    "desc": "Create, buy, sell, swap and farm NFTs",
+    "website": "https://nftrade.com/"
+  },
+  {
+    "category": "NFT Marketplace",
+    "groupTitle": "",
+    "name": "Element",
+    "desc": "The First Community-Driven Aggregated Marketplace",
+    "website": "https://www.element.market/bsc"
+  },
+  {
+    "category": "Payment Gateway",
+    "groupTitle": "",
+    "name": "Binance Connect",
+    "desc": "Fiat onramp: crypto purchase with credit card + NFT checkout",
+    "website": "https://www.binancecnt.com/en"
+  },
+  {
+    "category": "Payment Gateway",
+    "groupTitle": "",
+    "name": "MoonPay",
+    "desc": "A fast and simple way to buy and sell crypto",
+    "website": "https://www.moonpay.com/"
+  },
+  {
+    "category": "Payment Gateway",
+    "groupTitle": "",
+    "name": "Transak",
+    "desc": "Enable users to buy crypto from your app. Available across 100+ cryptocurrencies on 75+ blockchains via cards, bank transfers and other payment methods in 125+ countries",
+    "website": "https://transak.com/"
+  },
+  {
+    "category": "Payment Gateway",
+    "groupTitle": "",
+    "name": "Okse",
+    "desc": "Wallet and virtual card to pay with cryptocurrencies",
+    "website": "https://okse.io/"
+  },
+  {
+    "category": "Payment Gateway",
+    "groupTitle": "",
+    "name": "Kado",
+    "desc": "Multichain on-ramp",
+    "website": "https://www.kado.money/"
+  },
+  {
+    "category": "Payment Gateway",
+    "groupTitle": "",
+    "name": "SuperFluid",
+    "desc": "Handle subscriptions, laries, rewards and any composable stream of value",
+    "website": "https://www.superfluid.finance/home"
+  },
+  {
+    "category": "Payment Gateway",
+    "groupTitle": "",
+    "name": "Pip",
+    "desc": "Micro-transaction enabler and check-out button for e-commerce",
+    "website": "https://www.getpip.com/"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "CertiK",
+    "desc": "Leading security-focused ranking platform to analyze and monitor blockchain protocols and DeFi projects",
+    "website": "https://www.certik.com/"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "PeckShield",
+    "desc": "Security Audit, Threat Monitoring and Prevention, Pen Test and Emergency Response, Total Solutions",
+    "website": "https://peckshield.com/"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "SlowMist",
+    "desc": "SlowMist is a Blockchain security firm, providing security audits, security consultants, red teaming, and more",
+    "website": "https://www.slowmist.com/"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "Staging Labs",
+    "desc": "An infrastructure layer protecting Web3 users and businesses from mistakes, hacks, and scams",
+    "website": "https://www.staginglabs.io/"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "Go+ / Go Plus",
+    "logo": "Go and Go Plus",
+    "desc": "Provide security service, open & permissionless, accessible to everyone. We want to optimize the revenue model for white hats, developers, and security auditors to provide security services and expand user coverage by allowing users to have easier access to the high efficient security resources. Two main product are developed for this purpose, Go+ API and Go Pocket",
+    "website": "https://gopluslabs.io/"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "Verichains",
+    "desc": "Provides security audit services and formally verified audits for your blockchain implementation, consensus protocol, smart contracts and DApps using industry-standard security patterns and best practices",
+    "website": "https://audit.verichains.io/"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "HashDit",
+    "desc": "HashDit is dedicated to helping build a safe ecosystem for both users and smart contract developers on BNB Chain by providing in-time threat intelligence, comprehensive code auditing and instant analysis on BNB projects",
+    "website": "https://www.hashdit.io"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "Halborn",
+    "desc": "Blockchain security firm focused on security advisory, advanced penetration testing, smart contract audits and devOps & automation",
+    "website": "https://halborn.com/"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "Trail of Bits",
+    "desc": "Software assurance, security engineering and research & development security services with a wide range of products",
+    "website": "https://www.trailofbits.com/"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "Consensys Diligence",
+    "desc": "Smart contract audit",
+    "website": "https://consensys.net/diligence/"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "Zokyo",
+    "desc": "Security audits (protocol, base code, wallet, smart contract), Penetration Testing and other security assessments",
+    "website": "https://www.zokyo.io/"
+  },
+  {
+    "category": "Decentralized Identity/Social Graph",
+    "groupTitle": "",
+    "name": "SPACE ID",
+    "desc": "Building on BNB Chain, SPACE ID is a universal name service network that seamlessly connects people, information, assets, and applications in the digital world. It is chain-agnostic, decentralized, censorship-resistant, and open-sourced",
+    "website": "http://space.id/"
+  },
+  {
+    "category": "Decentralized Identity/Social Graph",
+    "groupTitle": "",
+    "name": "Galaxy",
+    "desc": "A collaborative credential infrastructure that empowers brands to build better communities and products in Web3",
+    "website": "https://galaxy.eco/"
+  },
+  {
+    "category": "Decentralized Identity/Social Graph",
+    "groupTitle": "",
+    "name": "CyberConnect",
+    "desc": "A decentralized social graph protocol returning data ownership back to users and helping devs build powerful Web3 social apps",
+    "website": "https://cyberconnect.me/"
+  },
+  {
+    "category": "Decentralized Storage",
+    "groupTitle": "",
+    "name": "IPFS",
+    "desc": "A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web upgradeable, resilient, and more open",
+    "website": "https://ipfs.io/"
+  },
+  {
+    "category": "Decentralized Storage",
+    "groupTitle": "",
+    "name": "Arweave",
+    "desc": "Decentralized on-chain data storage",
+    "website": "https://www.arweave.org/"
+  },
+  {
+    "category": "Decentralized Storage",
+    "groupTitle": "",
+    "name": "pinata.cloud",
+    "desc": "Pinata is an NFT media management service that allows users to host, manage and share files of any kind on the blockchain of their choice. As an IPFS pinning service, we focus on giving both technical and non-technical creators a fast, easy, and reliable way to share content without limits",
+    "website": "https://www.pinata.cloud/"
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Binance Wallet",
+    "desc": "",
+    "website": "https://binance-wallet.gitbook.io/binance-chain-wallet/",
+    "isSupportStaking": true
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Trust Wallet",
+    "desc": "",
+    "website": "https://trustwallet.com/",
+    "isSupportStaking": true
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Math Wallet",
+    "desc": "",
+    "website": "https://mathwallet.org/en-us/",
+    "isSupportStaking": true
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "SafePal",
+    "desc": "",
+    "website": "https://safepal.io/",
+    "isSupportStaking": false
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "TokenPocket",
+    "desc": "",
+    "website": "https://www.tokenpocket.pro/",
+    "isSupportStaking": false
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "MetaMask",
+    "desc": "",
+    "website": "https://metamask.zendesk.com/hc/en-us",
+    "isSupportStaking": false
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Ledger",
+    "desc": "",
+    "website": "https://www.ledger.com/",
+    "isSupportStaking": true
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Trezor",
+    "desc": "",
+    "website": "https://wallet.trezor.io",
+    "isSupportStaking": false
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "MEW",
+    "desc": "",
+    "website": "https://www.myetherwallet.com/",
+    "isSupportStaking": false
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "ezDeFi",
+    "desc": "",
+    "website": "https://apps.apple.com/app/lz-wallet/id1581578160",
+    "isSupportStaking": false
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "1inch Wallet",
+    "desc": "",
+    "website": "https://1inch.io/wallet/",
+    "isSupportStaking": false
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Infinity Wallet (Desktop)",
+    "desc": "",
+    "website": "https://infinitywallet.io/download/",
+    "isSupportStaking": false
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "BitKeep (App&Chrome)",
+    "desc": "",
+    "website": "https://bitkeep.com",
+    "isSupportStaking": false
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Coin98 Wallet (App Web Extension)",
+    "desc": "",
+    "website": "https://coin98.com/wallet",
+    "isSupportStaking": false
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Guarda Wallet",
+    "desc": "",
+    "website": "https://guarda.com/coins/binance-coin-wallet/",
+    "isSupportStaking": false
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Rabby Wallet",
+    "desc": "",
+    "website": "https://rabby.io/",
+    "isSupportStaking": false
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Onto",
+    "desc": "",
+    "website": "https://onto.app/",
+    "isSupportStaking": true
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Slope",
+    "desc": "",
+    "website": "https://slope.finance/",
+    "isSupportStaking": true
+  }
+]
