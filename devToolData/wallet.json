@@ -1,0 +1,146 @@
+[
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Binance Wallet",
+    "desc": "",
+    "website": "https://binance-wallet.gitbook.io/binance-chain-wallet/",
+    "isSupportStaking": true
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Trust Wallet",
+    "desc": "",
+    "website": "https://trustwallet.com/",
+    "isSupportStaking": true
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Math Wallet",
+    "desc": "",
+    "website": "https://mathwallet.org/en-us/",
+    "isSupportStaking": true
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "SafePal",
+    "desc": "",
+    "website": "https://safepal.io/",
+    "isSupportStaking": false
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "TokenPocket",
+    "desc": "",
+    "website": "https://www.tokenpocket.pro/",
+    "isSupportStaking": false
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "MetaMask",
+    "desc": "",
+    "website": "https://metamask.zendesk.com/hc/en-us",
+    "isSupportStaking": false
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Ledger",
+    "desc": "",
+    "website": "https://www.ledger.com/",
+    "isSupportStaking": true
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Trezor",
+    "desc": "",
+    "website": "https://wallet.trezor.io",
+    "isSupportStaking": false
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "MEW",
+    "desc": "",
+    "website": "https://www.myetherwallet.com/",
+    "isSupportStaking": false
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "ezDeFi",
+    "desc": "",
+    "website": "https://apps.apple.com/app/lz-wallet/id1581578160",
+    "isSupportStaking": false
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "1inch Wallet",
+    "desc": "",
+    "website": "https://1inch.io/wallet/",
+    "isSupportStaking": false
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Infinity Wallet (Desktop)",
+    "desc": "",
+    "website": "https://infinitywallet.io/download/",
+    "isSupportStaking": false
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "BitKeep (App&Chrome)",
+    "desc": "",
+    "website": "https://bitkeep.com",
+    "isSupportStaking": false
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Coin98 Wallet (App Web Extension)",
+    "desc": "",
+    "website": "https://coin98.com/wallet",
+    "isSupportStaking": false
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Guarda Wallet",
+    "desc": "",
+    "website": "https://guarda.com/coins/binance-coin-wallet/",
+    "isSupportStaking": false
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Rabby Wallet",
+    "desc": "",
+    "website": "https://rabby.io/",
+    "isSupportStaking": false
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Onto",
+    "desc": "",
+    "website": "https://onto.app/",
+    "isSupportStaking": true
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Slope",
+    "desc": "",
+    "website": "https://slope.finance/",
+    "isSupportStaking": true
+  }
+]

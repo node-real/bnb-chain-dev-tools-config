@@ -1,0 +1,142 @@
+[
+    {
+      "category": "Blockchain Access",
+      "groupTitle": "Block Explorers",
+      "name": "BscScan",
+      "desc": "Blockchain explorer of BNB Chain",
+      "website": "https://bscscan.com/"
+    },
+    {
+      "category": "Blockchain Access",
+      "groupTitle": "Block Explorers",
+      "name": "BSCTrace",
+      "desc": "Blockchain explorer of BNB Chain from NodeReal",
+      "website": "https://bsctrace.com/"
+    },
+    {
+      "category": "Blockchain Access",
+      "groupTitle": "Block Explorers",
+      "name": "MINTSCAN",
+      "desc": "A fast explorer for the Beacon Chain",
+      "website": "https://binance.mintscan.io/"
+    },
+      {
+        "category": "Blockchain Access",
+        "groupTitle": "Node and Archive Services",
+        "name": "NodeReal",
+        "desc": "The ultimate and fastest Web3 infrastructure solution on BNB Chain, ETH, Polygon and Aptos",
+        "website": "https://nodereal.io/"
+      },
+      {
+        "category": "Blockchain Access",
+        "groupTitle": "Node and Archive Services",
+        "name": "Ankr",
+        "desc": "Ankr provides builders with streamlined access to a global network of nodes running on 18 different blockchains",
+        "website": "https://ankr.com/"
+      },
+      {
+        "category": "Blockchain Access",
+        "groupTitle": "Node and Archive Services",
+        "name": "Chainstack",
+        "desc": "From startups to large enterprises, thousands of businesses of all sizes use Chainstack’s software and APIs to build, run, and scale blockchain applications",
+        "website": "https://chainstack.com/"
+      },
+      {
+        "category": "Blockchain Access",
+        "groupTitle": "Node and Archive Services",
+        "name": "NowNodes",
+        "desc": "Get your crypto API for instant access to 40+ blockchain networks including BTC, ETH, and BSC which is over 1000 coins and tokens",
+        "website": "https://nownodes.io/"
+      },
+      {
+        "category": "Blockchain Access",
+        "groupTitle": "Node and Archive Services",
+        "name": "QuickNode",
+        "desc": "They make it simple to build blockchain applications and scale up as you grow. From elastic APIs to powerful tools and analytics, all at your command through a simple control panel",
+        "website": "http://quicknode.io/"
+      },
+      {
+        "category": "Blockchain Access",
+        "groupTitle": "Node and Archive Services",
+        "name": "BlockVision",
+        "desc": "BlockVision is a one-stop development platform and on-chain data retrieval portal for developers that boasts impressively low-latencies and high availability",
+        "website": "https://blockvision.org/"
+      },
+      {
+        "category": "Blockchain Access",
+        "groupTitle": "Node and Archive Services",
+        "name": "Covalent",
+        "desc": "Covalent provides a unified API bringing visibility to billions of Web3 data points",
+        "website": "https://www.covalenthq.com/"
+      },
+      {
+        "category": "Blockchain Access",
+        "groupTitle": "Node and Archive Services",
+        "name": "InfStones",
+        "desc": "InfStones' easy-to-use blockchain infrastructure.",
+        "website": "https://infstones.com/"
+      },
+      {
+        "category": "Blockchain Access",
+        "groupTitle": "Node and Archive Services",
+        "name": "Moralis",
+        "desc": "Moralis provides APIs, SDKs and Data for building high performance dapps. Integrate Web3 into any tech stack",
+        "website": "http://moralis.io"
+      },
+      {
+        "category": "Blockchain Access",
+        "groupTitle": "Node and Archive Services",
+        "name": "Gomu",
+        "desc": "NFT API",
+        "website": "https://www.gomu.co/"
+      },
+      {
+        "category": "Blockchain Access",
+        "groupTitle": "Node and Archive Services",
+        "name": "Bounce Finance",
+        "desc": "NFT API and Web3 marketplace",
+        "website": "https://bounce.finance/"
+      },
+      {
+        "category": "Blockchain Access",
+        "groupTitle": "NFT Tools",
+        "name": "NFTScan",
+        "desc": "The NFTScan API helps developers build new experiences retrieving NFTs and data analysis. We provide a set of endpoints that enable you to fetch ERC721 and ERC1155 NFT assets as well as transactions, collections, marketplace statistics and more",
+        "website": "https://nftscan.com/"
+      },
+      {
+        "category": "Blockchain Access",
+        "groupTitle": "NFT Tools",
+        "name": "BlockVision",
+        "desc": "BlockVision synchronizes and integrates core NFT marketplace data such as OpenSea and LooksRare, just to let you save everything while developing NFT applications",
+        "website": "https://blockvision.org/"
+      },
+      {
+        "category": "Blockchain Access",
+        "groupTitle": "NFT Tools",
+        "name": "Venly",
+        "desc": "Unity plugin, NFT to email, Shopify-app, NFT API, NFT analytics, NFT minter",
+        "website": "https://www.venly.io/"
+      },
+      {
+        "category": "Blockchain Access",
+        "groupTitle": "NFT Tools",
+        "name": "NFTrade",
+        "desc": "Aggreagator & shared orderbook SDK, ability to buy NFTs with other chain's native token",
+        "website": "https://nftrade.com/"
+      },
+      {
+        "category": "Blockchain Access",
+        "groupTitle": "Data Indexing",
+        "name": "PARSIQ",
+        "desc": "Raw onchain data indexing, monitoring and intelligence platform",
+        "website": "https://www.parsiq.net/"
+      },
+      {
+        "category": "Blockchain Access",
+        "groupTitle": "Data Indexing",
+        "name": "Nakji",
+        "desc": "Data indexing protocol for BNB Chain, mainly for DeFi, NFTs soon",
+        "website": "https://nakji.network/"
+      }
+  ]

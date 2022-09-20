@@ -1,0 +1,80 @@
+[
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "CertiK",
+    "desc": "Leading security-focused ranking platform to analyze and monitor blockchain protocols and DeFi projects",
+    "website": "https://www.certik.com/"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "PeckShield",
+    "desc": "Security Audit, Threat Monitoring and Prevention, Pen Test and Emergency Response, Total Solutions",
+    "website": "https://peckshield.com/"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "SlowMist",
+    "desc": "SlowMist is a Blockchain security firm, providing security audits, security consultants, red teaming, and more",
+    "website": "https://www.slowmist.com/"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "Staging Labs",
+    "desc": "An infrastructure layer protecting Web3 users and businesses from mistakes, hacks, and scams",
+    "website": "https://www.staginglabs.io/"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "Go+ / Go Plus",
+    "logo": "Go and Go Plus",
+    "desc": "Provide security service, open & permissionless, accessible to everyone. We want to optimize the revenue model for white hats, developers, and security auditors to provide security services and expand user coverage by allowing users to have easier access to the high efficient security resources. Two main product are developed for this purpose, Go+ API and Go Pocket",
+    "website": "https://gopluslabs.io/"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "Verichains",
+    "desc": "Provides security audit services and formally verified audits for your blockchain implementation, consensus protocol, smart contracts and DApps using industry-standard security patterns and best practices",
+    "website": "https://audit.verichains.io/"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "HashDit",
+    "desc": "HashDit is dedicated to helping build a safe ecosystem for both users and smart contract developers on BNB Chain by providing in-time threat intelligence, comprehensive code auditing and instant analysis on BNB projects",
+    "website": "https://www.hashdit.io"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "Halborn",
+    "desc": "Blockchain security firm focused on security advisory, advanced penetration testing, smart contract audits and devOps & automation",
+    "website": "https://halborn.com/"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "Trail of Bits",
+    "desc": "Software assurance, security engineering and research & development security services with a wide range of products",
+    "website": "https://www.trailofbits.com/"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "Consensys Diligence",
+    "desc": "Smart contract audit",
+    "website": "https://consensys.net/diligence/"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "Zokyo",
+    "desc": "Security audits (protocol, base code, wallet, smart contract), Penetration Testing and other security assessments",
+    "website": "https://www.zokyo.io/"
+  }
+]

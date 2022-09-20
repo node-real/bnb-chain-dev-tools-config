@@ -1,0 +1,23 @@
+[
+  {
+    "category": "Data Oracles",
+    "groupTitle": "",
+    "name": "Band Protocol",
+    "desc": "Band Protocol is a cross-chain data oracle platform that aggregates and connects real-world data and APIs to smart contracts",
+    "website": "https://bandprotocol.com/"
+  },
+  {
+    "category": "Data Oracles",
+    "groupTitle": "",
+    "name": "Chainlink",
+    "desc": "Securely connect smart contracts with off-chain data and services Chainlink decentralized oracle networks provide tamper-proof inputs, outputs, and computations to support advanced smart contracts on any blockchain",
+    "website": "https://chain.link/"
+  },
+  {
+    "category": "Data Oracles",
+    "groupTitle": "",
+    "name": "Pyth",
+    "desc": "Pyth delivers real-time on-chain market data",
+    "website": "https://pyth.network/"
+  }
+]
