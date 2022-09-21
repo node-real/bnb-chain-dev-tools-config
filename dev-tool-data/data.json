@@ -857,5 +857,14 @@
     "desc": "",
     "website": "https://slope.finance/",
     "isSupportStaking": true
+  },
+  ,
+  {
+    "category": "Test_New",
+    "groupTitle": "",
+    "name": "Test",
+    "desc": "",
+    "website": "https://nodereal.io/",
+    "logo": "https://www.nodereal.io/static/nodereal/images/home/icon-nodereal.png"
   }
 ]
