@@ -317,8 +317,8 @@
   {
     "category": "Development",
     "groupTitle": "Solidity Code Quality",
-    "name": "Solhint-testEmma",
-    "desc": "This is an open source project for linting Solidity code. This project provides both Security and Style Guide validations-testEmma",
+    "name": "Solhint",
+    "desc": "This is an open source project for linting Solidity code. This project provides both Security and Style Guide validations",
     "website": "https://github.com/protofire/solhint"
   },
   {
