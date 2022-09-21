@@ -881,5 +881,13 @@
     "desc": "Test description, TestNewUnderOneCategary.This describe will be longer.This is a new test item under the same group, and the same cateroty.So, this item will display under TestNewUnderOneCategary.There will be two items now.",
     "website": "https://google.com/",
     "logo": "https://www.nodereal.io/static/nodereal/images/home/icon-nodereal.png"
+  },
+  {
+    "category": "Test_emma_new_category",
+    "groupTitle": "TestNewGroupTitle",
+    "name": "ThisItemUnder same category buy new group",
+    "desc": "Test description, ThisItemUnder same category buy new group.This item under same Category, but new group. This describe will be longer.This is a new test item under the same group, and the same cateroty.So, this item will display under TestNewUnderOneCategary.There will be two items now.",
+    "website": "https://google.com/",
+    "logo": "https://www.nodereal.io/static/nodereal/images/home/icon-nodereal.png"
   }
 ]
