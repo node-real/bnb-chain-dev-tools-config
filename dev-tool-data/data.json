@@ -857,5 +857,12 @@
     "desc": "",
     "website": "https://slope.finance/",
     "isSupportStaking": true
+  }，
+    {
+    "category": "Test_Category",
+    "groupTitle": "",
+    "name": "Test_name",
+    "desc": "Test_desc",
+    "website": "https://slope.finance/",
   }
 ]
