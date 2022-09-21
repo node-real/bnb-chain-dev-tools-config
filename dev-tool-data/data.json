@@ -865,5 +865,13 @@
     "desc": "",
     "website": "https://nodereal.io/",
     "logo": "https://www.nodereal.io/static/nodereal/images/home/icon-nodereal.png"
+  },
+  {
+    "category": "Test_emma_new_category",
+    "groupTitle": "TestGroupTitle",
+    "name": "TestName",
+    "desc": "Test description, whether is display well?",
+    "website": "https://nodereal.io/",
+    "logo": "https://www.nodereal.io/static/nodereal/images/home/icon-nodereal.png"
   }
 ]
