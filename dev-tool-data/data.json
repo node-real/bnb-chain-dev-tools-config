@@ -865,5 +865,38 @@
     "desc": "",
     "website": "https://nodereal.io/",
     "logo": "https://www.nodereal.io/static/nodereal/images/home/icon-nodereal.png"
+  },
+  {
+    "category": "Test_Emma_Category_1",
+    "groupTitle": "TestEmmaGroupTitle1",
+    "name": "TestName1",
+    "desc": "Test description1",
+    "website": "https://google.com/",
+    "logo": "https://www.nodereal.io/static/nodereal/images/home/icon-nodereal.png"
+  },
+  {
+    "category": "Test_Emma_Category_1",
+    "groupTitle": "TestEmmaGroupTitle1",
+    "name": "TestName2",
+    "desc": "Test description2",
+    "website": "https://google.com/",
+    "logo": "https://www.nodereal.io/static/nodereal/images/home/icon-nodereal.png"
+  },
+  {
+    "category": "Test_Emma_Category_2",
+    "groupTitle": "TestEmmaGroupTitle1",
+    "name": "TestName2-1",
+    "desc": "Test description2-1",
+    "website": "https://google.com/",
+    "logo": "https://www.nodereal.io/static/nodereal/images/home/icon-nodereal.png"
+  },
+  {
+    "category": "Test_Emma_Category_2",
+    "groupTitle": "TestEmmaGroupTitle2",
+    "name": "TestName2-2",
+    "desc": "Test description2-2",
+    "website": "https://google.com/",
+    "logo": "https://www.nodereal.io/static/nodereal/images/home/icon-nodereal.png"
+    "isSupportStaking": true
   }
 ]
