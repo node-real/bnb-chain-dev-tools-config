@@ -896,7 +896,7 @@
     "name": "TestName2-2",
     "desc": "Test description2-2",
     "website": "https://google.com/",
-    "logo": "https://www.nodereal.io/static/nodereal/images/home/icon-nodereal.png"
+    "logo": "https://www.nodereal.io/static/nodereal/images/home/icon-nodereal.png",
     "isSupportStaking": true
   }
 ]
