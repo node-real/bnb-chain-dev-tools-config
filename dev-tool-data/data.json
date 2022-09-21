@@ -894,7 +894,7 @@
     "category": "Test_Emma_Category_2",
     "groupTitle": "TestEmmaGroupTitle2",
     "name": "TestName2-2",
-    "desc": "Test description2-2",
+    "desc": "Test description2-2； Test permission",
     "website": "https://google.com/",
     "logo": "https://www.nodereal.io/static/nodereal/images/home/icon-nodereal.png",
     "isSupportStaking": false
