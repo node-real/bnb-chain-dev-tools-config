@@ -235,6 +235,7 @@
     "groupTitle": "",
     "name": "HashFlow",
     "desc": "Bridgeless cross-chain swaps",
+    "logo": "https://www.nodereal.io/static/nodereal/images/bnb-dev-tool/icons/HashFlow.png?v=3",
     "website": "https://www.hashflow.com/"
   },
   {
@@ -584,6 +585,7 @@
     "category": "Payment Gateway",
     "groupTitle": "",
     "name": "SuperFluid",
+    "logo": "https://www.nodereal.io/static/nodereal/images/bnb-dev-tool/icons/SuperFluid.png?v=3",
     "desc": "Handle subscriptions, laries, rewards and any composable stream of value",
     "website": "https://www.superfluid.finance/home"
   },
