@@ -859,5 +859,13 @@
     "desc": "",
     "website": "https://slope.finance/",
     "isSupportStaking": true
+  },
+  {
+    "category": " Layer 2",
+    "groupTitle": "Layer 2 group",
+    "name": "Zecrey",
+    "desc": "A turn-key, Layer 2 privacy solution for cross-chain transactions and asset management based on Zero-knowledge (zk) Roll-Ups.",
+    "website": "https://www.nodereal.io/static/nodereal/images/home/icon-nodereal.png",
+    "isSupportStaking": true
   }
 ]
