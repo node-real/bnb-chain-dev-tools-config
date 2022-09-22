@@ -859,46 +859,5 @@
     "desc": "",
     "website": "https://slope.finance/",
     "isSupportStaking": true
-  },
-  {
-    "category": "Test_New",
-    "groupTitle": "",
-    "name": "Test",
-    "desc": "",
-    "website": "https://nodereal.io/",
-    "logo": "https://www.nodereal.io/static/nodereal/images/home/icon-nodereal.png"
-  },
-  {
-    "category": "Test_Emma_Category_1",
-    "groupTitle": "TestEmmaGroupTitle1",
-    "name": "TestName1——updateName",
-    "desc": "Test description1",
-    "website": "https://google.com/",
-    "logo": "https://www.nodereal.io/static/nodereal/images/home/icon-nodereal.png"
-  },
-  {
-    "category": "Test_Emma_Category_2",
-    "groupTitle": "TestEmmaGroupTitle2",
-    "name": "TestName2-Updat category into category2, group2",
-    "desc": "Test description2",
-    "website": "https://google.com/",
-    "logo": "https://www.nodereal.io/static/nodereal/images/home/icon-nodereal.png"
-  },
-  {
-    "category": "Test_Emma_Category_2",
-    "groupTitle": "TestEmmaGroupTitle1",
-    "name": "TestName2-1",
-    "desc": "Test description2-1 update description, test description, website change into meganode. Logo changed to icon-hover-optimism",
-    "website": "meganode.nodereal.io",
-    "logo": "https://www.nodereal.io/static/nodereal/images/home/icon_hover_optimism.png"
-  },
-  {
-    "category": "Test_Emma_Category_2",
-    "groupTitle": "TestEmmaGroupTitle2",
-    "name": "TestName2-2",
-    "desc": "Test description2-2； Test permission",
-    "website": "https://google.com/",
-    "logo": "https://www.nodereal.io/static/nodereal/images/home/icon-nodereal.png",
-    "isSupportStaking": false
   }
 ]
