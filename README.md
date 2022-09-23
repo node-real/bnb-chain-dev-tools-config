@@ -8,6 +8,7 @@
 ### BNB Chain Developer Tooling Landscape
 
 This landscape represents a comprehensive list of tools that developers use when developing smart contracts on BNB Chain.
+Creation of this list was spurred by developers at NodeReal, a one-stop blockchain infrastructure and services provider.
 
 ### Contributing
 
