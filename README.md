@@ -12,6 +12,8 @@ Creation of this list was spurred by developers at NodeReal, a one-stop blockcha
 
 ### Contributing
 
+
+Contributions are welcome! Feel free to submit a pull request, with anything from small fixes to tools you'd like to add (or remove!). 
 To suggest any changes to the entries or the categories, modify the [`data.json`](https://github.com/node-real/bnb-chain-dev-tools-config/blob/main/dev-tool-data/data.json) file and open a pull request.
 
 To suggest new entries, follow the below guidelines:
