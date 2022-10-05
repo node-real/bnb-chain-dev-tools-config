@@ -505,6 +505,14 @@
     "website": "https://gnosis-safe.io/"
   },
   {
+    "category": "Development",
+    "groupTitle": "Development Framework",
+    "name": "Starton",
+    "logo": "https://starton.s3.eu-west-3.amazonaws.com/starton_logo_monochrome_black.png",
+    "desc": "Starton is the most powerful development suite to build and scale web3 applications. We are the bridge to enable web2 companies to embrace web3",
+    "website": "https://www.starton.io/"
+  },
+  {
     "category": "Gaming Tools",
     "groupTitle": "",
     "name": "GameSpace",
