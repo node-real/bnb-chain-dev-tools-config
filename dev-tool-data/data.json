@@ -508,7 +508,6 @@
     "category": "Development",
     "groupTitle": "Development Framework",
     "name": "Starton",
-    "logo": "https://starton.s3.eu-west-3.amazonaws.com/starton_logo_monochrome_black.png",
     "desc": "Starton is the most powerful development suite to build and scale web3 applications. We are the bridge to enable web2 companies to embrace web3",
     "website": "https://www.starton.io/"
   },
@@ -636,7 +635,7 @@
     "category": "Security Audit",
     "groupTitle": "",
     "name": "Go+ / Go Plus",
-    "logo": "Go and Go Plus",
+    "logo": "https://www.nodereal.io/static/nodereal/images/bnb-dev-tools/icons/Go and Go Plus.png",
     "desc": "Provide security service, open & permissionless, accessible to everyone. We want to optimize the revenue model for white hats, developers, and security auditors to provide security services and expand user coverage by allowing users to have easier access to the high efficient security resources. Two main product are developed for this purpose, Go+ API and Go Pocket",
     "website": "https://gopluslabs.io/"
   },
