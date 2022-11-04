@@ -297,6 +297,14 @@
   {
     "category": "Data Oracles",
     "groupTitle": "",
+    "name": "Binance Oracle",
+    "desc": "Binance Oracle, a decentralized Web3 Oracle, a data feed network that connects real-world data to blockchain smart contracts. Binance Oracle will enable smart contracts to run on real-world inputs and outputs, starting with the BNB Chain ecosystem.",
+    "website": "https://oracle.binance.com/",
+    "logo": "https://www.nodereal.io/static/nodereal/images/bnb-dev-tools/icons/BSC%20Connector.png?v=3"
+  },
+  {
+    "category": "Data Oracles",
+    "groupTitle": "",
     "name": "Band Protocol",
     "desc": "Band Protocol is a cross-chain data oracle platform that aggregates and connects real-world data and APIs to smart contracts",
     "website": "https://bandprotocol.com/"
@@ -314,14 +322,6 @@
     "name": "Pyth",
     "desc": "Pyth delivers real-time on-chain market data",
     "website": "https://pyth.network/"
-  },
-  {
-    "category": "Data Oracles",
-    "groupTitle": "",
-    "name": "Binance Oracle",
-    "desc": "Binance Oracle, a decentralized Web3 Oracle, a data feed network that connects real-world data to blockchain smart contracts. Binance Oracle will enable smart contracts to run on real-world inputs and outputs, starting with the BNB Chain ecosystem.",
-    "website": "https://oracle.binance.com/",
-    "logo": "https://www.nodereal.io/static/nodereal/images/bnb-dev-tools/icons/BSC%20Connector.png?v=3"
   },
   {
     "category": "Development",
