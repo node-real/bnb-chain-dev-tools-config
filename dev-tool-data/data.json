@@ -514,6 +514,14 @@
   },
   {
     "category": "Development",
+    "groupTitle": "MPC Wallets/Multisig",
+    "name": "Particle Network",
+    "desc": "Particle Network is a mobile app data and development platform for Web3.0. Mobile-first, data driven, composable.",
+    "website": "https://particle.network/",
+    "logo":"https://particle.network/favicons/favicon.ico"
+  },
+  {
+    "category": "Development",
     "groupTitle": "Development Framework",
     "name": "Starton",
     "desc": "Starton is the most powerful development suite to build and scale web3 applications. We are the bridge to enable web2 companies to embrace web3",
