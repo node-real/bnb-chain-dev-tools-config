@@ -440,7 +440,7 @@
     "groupTitle": "Development Framework",
     "name": "Truffle",
     "desc": "A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine",
-    "website": "https://trufflesuite.com/"
+    "website": "https://trufflesuite.com/boxes/BSC-Truffle-Starter-Box/"
   },
   {
     "category": "Development",
@@ -882,5 +882,21 @@
     "desc": "",
     "website": "https://slope.finance/",
     "isSupportStaking": true
+  },
+  {
+    "category": "Token Approval Tools",
+    "groupTitle": "",
+    "name": "BscScan",
+    "desc": "BscScan TokenApproval can review and revoke your token approvals for any dApp.",
+    "website": "https://bscscan.com/tokenapprovalchecker",
+    "logo": "https://twitter.com/bscscan/photo"
+  },
+  {
+    "category": "Token Approval Tools",
+    "groupTitle": "",
+    "name": "RevokeCash",
+    "desc": "Manage your token allowances and protect yourself from scams on 30+ chains, including Ethereum, BSC and Polygon.",
+    "website": "https://revoke.cash/",
+    "logo": "https://twitter.com/RevokeCash/photo"
   }
 ]
