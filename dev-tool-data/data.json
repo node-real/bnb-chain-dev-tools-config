@@ -136,7 +136,7 @@
     "category": "Blockchain Access",
     "groupTitle": "Node and Archive Services",
     "name": "Moralis",
-    "desc": "Moralis provides APIs, SDKs and Data for building high performance dapps. Integrate Web3 into any tech stack",
+    "desc": "Moralis provides APIs, SDKs and Data for building high performance dApps. Integrate Web3 into any tech stack",
     "website": "http://moralis.io"
   },
   {
@@ -281,14 +281,14 @@
     "website": "https://www.hq.xyz/"
   },
   {
-    "category": "Dapp Store",
+    "category": "dApp Store",
     "groupTitle": "",
-    "name": "Dapp Bay",
+    "name": "dApp Bay",
     "desc": "",
     "website": "https://dappbay.bnbchain.org/"
   },
   {
-    "category": "Dapp Store",
+    "category": "dApp Store",
     "groupTitle": "",
     "name": "Magic Square",
     "desc": "",
@@ -659,7 +659,7 @@
     "category": "Security Audit",
     "groupTitle": "",
     "name": "Verichains",
-    "desc": "Provides security audit services and formally verified audits for your blockchain implementation, consensus protocol, smart contracts and DApps using industry-standard security patterns and best practices",
+    "desc": "Provides security audit services and formally verified audits for your blockchain implementation, consensus protocol, smart contracts and dApps using industry-standard security patterns and best practices",
     "website": "https://audit.verichains.io/"
   },
   {
