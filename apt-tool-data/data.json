@@ -1,0 +1,401 @@
+[
+  {
+    "category": "Development",
+    "groupTitle": "IDE",
+    "name": "VSCode",
+    "desc": "Microsoft Visual Studio Code lets you build and debug modern web and cloud applications. Move IDE extension will help you cope with environment requirements for Visual Studio Code.",
+    "website": "https://code.visualstudio.com/download"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "IDE",
+    "name": "IntelliJ IDEA",
+    "desc": "IntelliJ IDEA is undoubtedly the top-choice IDE for software developers. There is a feature-rich IDE plugin for the Move language, which is integrated natively with Aptos CLI tooling.",
+    "website": "https://remix.ethereum.org/"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "SDK Development Framework",
+    "name": "Move Playground",
+    "desc": "Move Web IDE",
+    "website": "https://playground.pontem.network/"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "SDK Development Framework",
+    "name": "Typescript SDK",
+    "desc": "Aptos provides a fully supported TypeScript SDK with the source code in the Aptos-core GitHub repository.",
+    "website": "https://aptos.dev/sdks/ts-sdk/index"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "SDK Development Framework",
+    "name": "Python SDK",
+    "desc": "Aptos provides a lightly maintained official Python SDK. It is available on PyPi with the source code in the Aptos-core GitHub repository.",
+    "website": "https://aptos.dev/sdks/python-sdk"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "SDK Development Framework",
+    "name": "Rust SDK",
+    "desc": "Aptos provides an official Rust SDK in the Aptos-core GitHub repository.",
+    "website": "https://aptos.dev/sdks/rust-sdk"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "SDK Development Framework",
+    "name": "Aptos Framework",
+    "desc": "The Aptos Framework defines the standard actions that can be performed on-chain both by the Aptos VM",
+    "website": "https://github.com/aptos-labs/aptos-core/tree/main/aptos-move/framework"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Wallet Adaptor",
+    "name": "Aptos Wallet Adapter",
+    "desc": "A monorepo modular wallet adapter",
+    "website": "https://github.com/aptos-labs/aptos-wallet-adapter"
+  },
+  {
+    "category": "Development",
+    "groupTitle": "Multisig",
+    "name": "MSafe",
+    "desc": "MSafe wallet is the first multi-sig, non-custodial digital assets management solution built on Move",
+    "website": "https://m-safe.io/"
+  },
+  {
+    "category": "Data Oracles",
+    "groupTitle": "",
+    "name": "Pyth",
+    "desc": "Pyth is designed to bring real-world data on-chain on a sub-second timescale.",
+    "website": "https://pyth.network/"
+  },
+  {
+    "category": "Data Oracles",
+    "groupTitle": "",
+    "name": "Switchboard",
+    "desc": "Permissionless, Multichain Oracle Network",
+    "website": "https://switchboard.xyz/"
+  },
+  {
+    "category": "Data Oracles",
+    "groupTitle": "",
+    "name": "SupraOracles",
+    "desc": "Oracle solution for enterprise",
+    "website": "https://supraoracles.com/"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Browser",
+    "name": "Aptos Explorer",
+    "desc": "",
+    "website": "https://explorer.aptoslabs.com/"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Browser",
+    "name": "TraceMove",
+    "desc": "",
+    "website": "https://tracemove.io/"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Browser",
+    "name": "Aptoscan",
+    "desc": "",
+    "website": "https://aptoscan.com/"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Browser",
+    "name": "Apscan",
+    "desc": "",
+    "website": "https://apscan.io/"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "NodeReal",
+    "desc": "The ultimate and fastest Web3 infrastructure solution on BNB Chain, ETH, Polygon and Aptos",
+    "website": "https://nodereal.io/"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "Ankr",
+    "desc": "Your Instant RPC Gateway to Aptos",
+    "website": "https://www.ankr.com/rpc/aptos/"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "Blast API by Bware Labs",
+    "desc": "Web3 Infrastructure for Everyone",
+    "website": "https://blastapi.io/"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "BlockEden.xyz",
+    "desc": "BlockEden.xyz is a suite of APIs powering dApps of all sizes for Aptos and Sui blockchains. Build dApp and scale faster.",
+    "website": "https://blockeden.xyz/"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "BlockPI Network",
+    "desc": "Distributed Web3 Infrastructure",
+    "website": "https://blockpi.io/"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "Chainbase",
+    "desc": "Welcome to chainbase docs, the powerful Web3 developer platform.",
+    "website": "https://chainbase.online/"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "Chainstack",
+    "desc": "Run high-performing Aptos RPC nodes and APIs in minutes on a platform built for scale.",
+    "website": "https://chainstack.com/"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Node and Archive Services",
+    "name": "Moralis",
+    "desc": "Moralis provides APIs, SDKs and Data for building high performance dApps. Integrate Web3 into any tech stack",
+    "website": "https://moralis.io/chains/aptos/"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "NFT tooling",
+    "name": "Koizumi",
+    "desc": "The Best Aggregator for Aptos NFT Collectors",
+    "website": "https://agg.koizumi.io/"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "NFT tooling",
+    "name": "Livepeer",
+    "desc": "Livepeer is a decentralized video infrastructure network.",
+    "website": "https://livepeer.org/"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "NFT tooling",
+    "name": "Mokshya Protocol",
+    "desc": "Building open source smart contracts and SDKs for Aptos",
+    "website": "https://mokshya.io/"
+  },
+  {
+    "category": "Blockchain Access",
+    "groupTitle": "Data Indexing",
+    "name": "indexer",
+    "desc": "The Multichain Indexing Platform",
+    "website": "https://indexer.xyz/"
+  },
+  {
+    "category": "Payment Gateway",
+    "groupTitle": "",
+    "name": "MoonPay",
+    "desc": "A fast and simple way to buy and sell crypto",
+    "website": "https://www.moonpay.com/"
+  },
+  {
+    "category": "Decentralized Identity",
+    "groupTitle": "",
+    "name": "Aptos Name Service",
+    "desc": "Secure your .apt domain for your journey through the Aptos ecosystem.",
+    "website": "https://www.aptosnames.com/"
+  },
+  {
+    "category": "NFT Marketplace",
+    "groupTitle": "",
+    "name": "BlueMove",
+    "desc": "Explore the most outstanding NTFs in all topics of life. Buy NFTs (or sell 'em) to earn rewards.",
+    "website": "https://bluemove.net/"
+  },
+  {
+    "category": "Cross-chain Bridges",
+    "groupTitle": "",
+    "name": "Souffl3",
+    "desc": "Aptos NFT marketplace",
+    "website": "https://souffl3.com/"
+  },
+  {
+    "category": "Cross-chain Bridges",
+    "groupTitle": "",
+    "name": "Topaz",
+    "desc": "Topaz is an NFT marketplace built on the powerful Aptos blockchain, with a focus on safety and scalability.",
+    "website": "https://www.topaz.so/"
+  },
+  {
+    "category": "Cross-chain Bridges",
+    "groupTitle": "",
+    "name": "Axelar",
+    "desc": "Axelar delivers secure cross-chain communication for Web3. Our infrastructure enables dApp users to interact with any asset or application, on any chain, with one click.",
+    "website": "https://axelar.network/"
+  },
+  {
+    "category": "Cross-chain Bridges",
+    "groupTitle": "",
+    "name": "Celer",
+    "desc": "Celer is a blockchain interoperability protocol enabling a one-click user experience accessing tokens, DeFi, GameFi, NFTs, governance, and more across multiple chains.",
+    "website": "https://celer.network/"
+  },
+  {
+    "category": "Cross-chain Bridges",
+    "groupTitle": "",
+    "name": "LayerZero",
+    "desc": "LayerZero enables messages to be sent between blockchains.",
+    "website": "https://layerzero.network/"
+  },
+  {
+    "category": "Cross-chain Bridges",
+    "groupTitle": "",
+    "name": "Multichain",
+    "desc": "Multichain, as a cross-chain router protocol (CRP), endeavors to be the ultimate router for Web3.",
+    "website": "https://multichain.org/"
+  },
+  {
+    "category": "Cross-chain Bridges",
+    "groupTitle": "",
+    "name": "Wormhole",
+    "desc": "Wormhole is a decentralized generic interoperability protocol for multiple blockchain ecosystems.",
+    "website": "https://wormhole.com/"
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Blocto",
+    "desc": "",
+    "website": "https://token.blocto.app/"
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "EVO Wallet",
+    "desc": "",
+    "website": "https://evowallet.app/"
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Fewcha",
+    "desc": "",
+    "website": "https://fewcha.app/"
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Martian",
+    "desc": "",
+    "website": "https://martianwallet.xyz/"
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Math Wallet",
+    "desc": "",
+    "website": "https://mathwallet.org/"
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "MSafe",
+    "desc": "",
+    "website": "https://m-safe.io/"
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Petra",
+    "desc": "",
+    "website": "https://petra.app/"
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Pontem",
+    "desc": "",
+    "website": "https://pontem.network/"
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Rise Wallet",
+    "desc": "",
+    "website": "https://risewallet.io/"
+  },
+  {
+    "category": "Wallets",
+    "groupTitle": "",
+    "name": "Trust Wallet",
+    "desc": "",
+    "website": "https://trustwallet.com/"
+  },
+  {
+    "category": "Notification",
+    "groupTitle": "",
+    "name": "Dialect",
+    "desc": "",
+    "website": "https://www.dialect.to/"
+  },
+  {
+    "category": "Notification",
+    "groupTitle": "",
+    "name": "Notifi Network",
+    "desc": "",
+    "website": "https://notifi.network/"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "CertiK",
+    "desc": "",
+    "website": "https://www.certik.com/"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "Movebit",
+    "desc": "",
+    "website": "https://www.movebit.xyz/"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "SlowMist",
+    "desc": "",
+    "website": "https://slowmist.com/"
+  },
+  {
+    "category": "Security Audit",
+    "groupTitle": "",
+    "name": "Vital Block",
+    "desc": "",
+    "website": "https://vitalblock.org/"
+  },
+  {
+    "category": "dApp Store",
+    "groupTitle": "",
+    "name": "Aptos.eco",
+    "desc": "",
+    "website": "https://aptos.eco/"
+  },
+  {
+    "category": "dApp Store",
+    "groupTitle": "",
+    "name": "AptStats",
+    "desc": "A comprehensive dashboard helps you to have a better understanding in Aptos, includes chain, DeFi and ecosystem projects, etc.",
+    "website": "https://aptstats.xyz/"
+  },
+  {
+    "category": "dApp Store",
+    "groupTitle": "",
+    "name": "MoveMarketcap",
+    "desc": "",
+    "website": "https://movemarketcap.com/aptos/"
+  }
+]
