@@ -254,13 +254,6 @@
   {
     "category": "Cross-chain Bridges",
     "groupTitle": "",
-    "name": "Multichain",
-    "desc": "Multichain, as a cross-chain router protocol (CRP), endeavors to be the ultimate router for Web3.",
-    "website": "https://multichain.org/"
-  },
-  {
-    "category": "Cross-chain Bridges",
-    "groupTitle": "",
     "name": "Wormhole",
     "desc": "Wormhole is a decentralized generic interoperability protocol for multiple blockchain ecosystems.",
     "website": "https://wormhole.com/"
