@@ -205,13 +205,6 @@
   {
     "category": "Cross-chain Bridges",
     "groupTitle": "",
-    "name": "Multichain",
-    "desc": "Multichain is the ultimate Router for Web3. It is an infrastructure developed for arbitrary cross-chain interactions",
-    "website": "https://multichain.org/"
-  },
-  {
-    "category": "Cross-chain Bridges",
-    "groupTitle": "",
     "name": "LayerZero",
     "desc": "LayerZero is an omnichain interoperability protocol designed for lightweight message passing across chains",
     "website": "https://layerzero.network/"
@@ -285,6 +278,7 @@
     "groupTitle": "",
     "name": "dApp Bay",
     "desc": "",
+    "logo": "https://nodereal.io/static/ihs/images/dev-tool-logo/bbfaaa13-d441-494a-9cda-2d5c2829f197.png",
     "website": "https://dappbay.bnbchain.org/"
   },
   {
