@@ -734,6 +734,14 @@
     "website": "https://www.pinata.cloud/"
   },
   {
+    "category": "Decentralized Storage",
+    "groupTitle": "",
+    "name": "4EVERLAND",
+    "desc": "A Web3 infrastructure facilitating projects easier and faster to host frontend, store data/NFT/file and access on top of IPFS/Arweave/Dfinity",
+    "website": "https://www.4everland.org/"
+    "logo": "https://backlist.4everland.store/logo.svg"
+  },
+  {
     "category": "Wallets",
     "groupTitle": "",
     "name": "Binance Wallet",
